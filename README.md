@@ -7,7 +7,7 @@
 
 ## How To Use:
 
-- Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the chrome console when you're on blooket.
+- Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the chrome console when you're on duolingo.
 
 ## Features:
 - <a href="https://github.com/rxzyx/Duolingo-Hacks/blob/main/Answer%20Hack.js">Answer Hack</a> - Shows the correct solution to a question.
